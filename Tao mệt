@@ -1,0 +1,14 @@
+# Hi There
+Config files for my Phương Anh.
+
+- Chào Cậu Khánh Đoan.Ụa nhầm Phương Anh🤭
+- Tối rồi không ngủ ?? Thức làm gì
+- Rảnh quá sao săn sale shoppe... có gì săn giùm Tao Khánh Đoan luôn nhaaaa. Cảm ơn nhiềuuuu
+- êi tao thấy tao cũng rảnh ghê. Ngồi làm ba cái này
+- Thoy đọc ik rồi viêt tiếp 
+- Tự Nhiên thấy nhớ Khánh Đoan ghê
+- Quay lại hông mày🤡
+- Chán thiệt sự.Giờ mà có Khánh Đoan là zui gòiii
+const CONFIG = {
+messlink : 'https://www.facebook.com/profile.php?id=100038945647464'
+}
