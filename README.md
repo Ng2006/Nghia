@@ -1,6 +1,6 @@
 ### Hi There ❤️
 
-Chào Cậu Thảo Zân!!
+Chào Cậu Phương Anh !!
 Dạo này cậu có khỏe hông ?
 Nghe đồn cậu mới có bồ hả
 Có bồ sao không kể mình 
@@ -10,6 +10,6 @@ Tao thấy tao rảnh loz ghê khi ngồi viết cái này
 Chúc bạn ngủ ngon🙁
 Hihiiiiiiiiiiii
 
-Ụa rồi khi nào đi chơi đây
+Thấy tao giỏi ko:))))
 
-Nhớ bấm vào link : "https://www.facebook.com/profile.php?id=100009605621077"
+Nhớ bấm vào link : "https://www.facebook.com/profile.php?id=100038945647464"
